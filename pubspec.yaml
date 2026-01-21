@@ -1,0 +1,27 @@
+name: multi_form_fields
+description: A powerful Flutter package for managing multiple form fields with built-in debouncing, automatic focus control, and TextEditingController management. Simplify your form handling with type-safe keys and minimal boilerplate.
+version: 1.0.0
+homepage: https://github.com/AbbosbekBotirjonovich/multi_form_field
+repository: https://github.com/AbbosbekBotirjonovich/multi_form_field
+issue_tracker: https://github.com/AbbosbekBotirjonovich/multi_form_field/issues
+documentation: https://github.com/AbbosbekBotirjonovich/multi_form_field#readme
+
+topics:
+  - forms
+  - text-field
+  - debounce
+  - form-validation
+  - form-management
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
