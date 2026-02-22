@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2026-01-22
+* Added comprehensive example project in `/example` folder
+* Updated documentation in README.md 
+
 ## [1.0.1] - 2026-01-22
 * Fixed minor typo in documentation
 
